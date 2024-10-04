@@ -20,7 +20,7 @@ Installation:
 5. check the Node.js package and the dependencies in the project's node_modules folder. List of required packages and versions are in package.json file. 
 6. Key packages - React, react-dom, React scripts, react-router-dom, axios and CSS file.
 
-Usage: The launched app fetches varities of hot coffees from external API. The search bar helps navigate the user to input the coffee variety they are looking for. The search item fetches the request that matches the search term.
+Usage: The launched app fetches varities of hot coffees from external API. The search bar helps navigate the user to input the coffee variety they are looking for. The search item fetches the request that matches the search term. The app can be accessed through the following link https://sba320hreactcoffeeapp.netlify.app/
 
 Feedback: Feedback are welcome. please share any issues or questions, any submitting issues or pull requests to help fix the bugs in the app.
 
